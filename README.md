@@ -8,6 +8,7 @@ Tabela Klienci zawiera dane klientów sklepu.
 Tabela Absencje zawiera informacje o nieobecnościach pracowników.
 
 Tabela Departamenty zawiera informacje o działach firmy, kierownikach poszczegółnych działów.
+
 Tabela Dostawcy zawiera dane o dostawcach towarów do sklepu.
 
 Tabela Faktury zawiera infromacje o fakturach jakie zostały wystawione dla danego klienta.
